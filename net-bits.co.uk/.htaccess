@@ -1,0 +1,8 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^net\-bits\.co\.uk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.net\-bits\.co\.uk$
+RewriteRule ^/?$ "http\:\/\/www\.net\-bits\.com\/" [R=301,L]
+
