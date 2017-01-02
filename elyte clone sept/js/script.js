@@ -176,12 +176,12 @@ $(document).ready(function($) {
     function interval() {
 		if(isPause === false){
 			percentTime += 1 / time;
-			// $bar.css({
-			// 	width: percentTime+"%"
-			// });
-		/*	if(percentTime >= 100){
+			$bar.css({
+				width: percentTime+"%"
+			});
+			if(percentTime >= 100){
 				$elem.trigger('owl.next')
-			}*/
+			}
 		}
     }
 	
