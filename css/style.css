@@ -46,8 +46,9 @@ body {
 	color: #000;
 	opacity:1 !important;
 	/*background: url(../images/patterns/1.png) fixed repeat;*/
-	background-color: #020812;
 	margin: 20px;
+	background-color: #020812;
+
 }
 strong, b {
 	font-weight: 600;
