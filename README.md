@@ -66,6 +66,9 @@
 
 In shaa Allah once we agree on the new updates i'll start implementing them as much and quick i can.
 
-# To brother Aba mousa: 
- if u can spare some time to add your comments as well as the server code needed That would be highly appreciated
+# To brother Abu Musa: 
+ if u can spare some time to add your comments as well as the server code needed That would be highly appreciated.
 Jazakallahu khayra.
+ # To brother Abu Abdullah:
+ please email me you comments and suggesions to be added here.
+ Jazakallahu khayra.
