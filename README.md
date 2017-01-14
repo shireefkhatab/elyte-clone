@@ -14,10 +14,11 @@
 	# HEAD: 
 		* Favicon: Change the favicon to be same as our logo.
 		* Title: Change the to be same as our brand.
+		* brand: i suggest netfi instead of netbits.
 	# BODY: 
 		* Margin: Add margin, I suggest 20px , white color.
 		* Scrool bar: Increase width; Change color.
-		* Font:   Increase the opacity; font-size; font-weight;
+		* Font:  Increase the opacity; font-size; font-weight;
 		* Footer: Decrease height; rearrange its content on three columns.
 		* remove social media icons from the top and keep it only in the footer.
 	# NAVIGATION:
