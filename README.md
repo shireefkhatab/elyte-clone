@@ -14,7 +14,7 @@
 	# HEAD: 
 		* Favicon: Change the favicon to be same as our logo.
 		* Title: Change the to be same as our brand.
-		* brand: i suggest netfi instead of netbits.
+		* brand: i suggest NetFi instead of NetBits.
 	# BODY: 
 		* Margin: Add margin, I suggest 20px , white color.
 		* Scrool bar: Increase width; Change color.
