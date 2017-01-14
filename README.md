@@ -38,7 +38,6 @@
 	# NAVIGATION & FOOTER:
 		* Contacts : Tel, Email, Social media links And other links
 		* Company + submenu: Replace it with just About us link.
-		* Breadcrums: Change location Or Decrease banner width, Add some styles.
 	
 	# CONTACT US PAGE:
 		* Map: Serve over HTTPS.
@@ -53,11 +52,10 @@
 		* Update Our Technology Partner; 
 		* Update Client Testimonials;
 	# HOME PAGE:
-		* Content: Needs more content (Summury of every page of the site).
+		* Content: Needs more content to be more engaging (Summury of all pages of the site).
 
 
 4- PERFORMANCE
-
 	
 	Navigation: 
 		* Implement Angular SPA using ui-router for Fast and smooth routing between pages.
