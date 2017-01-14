@@ -40,14 +40,12 @@
 /*------------------------------------------*/
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
+	font-size: 13px;
     line-height: 21px;
 	font-weight: bold;
 	color: #000;
 	opacity:1 !important;
-	/*background: url(../images/patterns/1.png) fixed repeat;*/
-	margin: 20px;
-	background-color: lightblue;
+	background: url(../images/patterns/1.png) fixed repeat;
 }
 strong, b {
 	font-weight: 600;
@@ -81,6 +79,7 @@ a:hover {
 a, a:hover {
     text-decoration: none;
 }
+
 i {
 	font-size: 1.1em;
 }
@@ -383,7 +382,6 @@ header {
 .top-bar {
 	background-color: #fff;
 	border-bottom: 1px solid #f2f2f2;
-	width: 90%;
 }
 
 .top-bar.color-bar {
@@ -548,7 +546,6 @@ ul.social-list li:last-child a i {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -o-border-radius: 0;
-	width: 90%;
 }
 
 .navbar-brand {
