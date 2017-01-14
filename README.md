@@ -42,6 +42,8 @@
 	
 	# CONTACT US PAGE:
 		* Map: Serve over HTTPS.
+			please note: no map on github site because google map was served over http and Github site accepts only https service. once the site is hosted it will work in shaa Allah .
+
 		* Contact Form: Add server code.
 	# Add server code for testimomnial and patrtners to be dynamics.	
 
