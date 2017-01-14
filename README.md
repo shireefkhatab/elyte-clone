@@ -44,7 +44,7 @@
 		* Map: Serve over HTTPS.
 			please note: no map on github site because google map was served over http and Github site accepts only https service. once the site is hosted it will work in shaa Allah .
 
-		* Contact Form: Add server code.
+		* Contact Form: Better to be submitted with some backend code for action and validation.
 	# Add server code for testimomnial and patrtners to be dynamics.	
 
 3- CONTENT
