@@ -64,6 +64,7 @@
 			(for now: gulp, then: will migrate to webpack or Rollup).
 		* Reduce the amount of vendor code which not needed in the production phase.
 
-In shaa Allah once we agree on the new updates i'll start implementing them.
+In shaa Allah once we agree on the new updates i'll start implementing them as much and quick i can.
 
-# Aba mousa if u can spare some time to add your comments as well as the server code needed.
+# To brother Aba mousa if u can spare some time to add your comments as well as the server code needed That would be highly appreciated
+Jazakallahu khayra.
