@@ -50,7 +50,7 @@
 3- CONTENT
 
 	# ALL PAGES: 
-		* Update Our Technology Partner; 
+		* Update Our Technology Partners; 
 		* Update Client Testimonials;
 		* If not done before, The contents need to be reviewed and match with the site nature and goals.
 	# HOME PAGE:
