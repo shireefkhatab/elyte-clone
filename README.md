@@ -1,9 +1,9 @@
  Review criteria:
   
-1- Layout & Validation.
-2- Functionality.
-3- Content.
-4- Performance.
+1- Layout & Validation.  
+2- Functionality.  
+3- Content.  
+4- Performance.  
 
 /////////////////////////
 
