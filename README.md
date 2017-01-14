@@ -1,4 +1,4 @@
-﻿ Review criteria:
+ Review criteria:
   
 1- Layout & Validation.
 2- Functionality.
@@ -54,7 +54,7 @@
 		* If not done before, The contents need to be reviewed and match with the site nature and goals.
 	# HOME PAGE:
 		* Content: Needs more content to be more engaging (Summury of all pages of the site).
-
+	# In the future in shaa Allah, A portfolio page with live projects must be added!
 
 4- PERFORMANCE
 	
@@ -64,7 +64,7 @@
 		* Use build system to concat and minify styles and scripts.
 			(for now: gulp, then: will migrate to webpack or Rollup).
 		* Reduce the amount of vendor code which not needed in the production phase.
-
+	SEO (Ranking the site high on search engines): I know little about SEO, Recently Started to look into it, or Hassan can help more in shaa Allah.
 In shaa Allah once we agree on the new updates i'll start implementing them as much and quick i can.
 
 # To brother Abu Musa: 
