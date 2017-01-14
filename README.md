@@ -4,7 +4,8 @@
 3- CONTENTS.
 4- PERFORMANCE.
 
-//////////////////////////
+/////////////////////////
+
 1- LAYOUT & VALIDATION
 
 	# HTML: 
