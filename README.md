@@ -56,7 +56,7 @@
 	# HOME PAGE:
 		* Content: Needs more content in order to be more engaging (Summury of all pages of the site).
 	# In the future in shaa Allah, A portfolio page with live projects must be added!
-	# Services: Insure that we are able to provide these services all or reduce them.
+	# Services: ensure that we are able to provide these services all or reduce them.
 
 4- PERFORMANCE
 	
