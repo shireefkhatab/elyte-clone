@@ -1,9 +1,10 @@
-﻿1- LAYOUT & VALIDATION.
+﻿ Review criteria: 
+1- LAYOUT & VALIDATION.
 2- FUNCTIONALITY.
 3- CONTENTS.
 4- PERFORMANCE.
 
-
+//////////////////////////
 1- LAYOUT & VALIDATION
 
 	# HTML: 
