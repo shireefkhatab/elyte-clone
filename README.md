@@ -71,5 +71,5 @@ In shaa Allah once we agree on the new updates i'll start implementing them as m
 Jazakallahu khayra.
 
 # To brother Abu Abdullah:
- Please email me you comments and suggesions to be added here.
+ Please email me you comments and suggesions to be added.
  Jazakallahu khayra.
