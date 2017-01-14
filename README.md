@@ -1,9 +1,9 @@
 ﻿ Review criteria:
   
-1- LAYOUT & VALIDATION.
-2- FUNCTIONALITY.
-3- CONTENTS.
-4- PERFORMANCE.
+1- Layout & Validation.
+2- Functionality.
+3- Content.
+4- Performance.
 
 /////////////////////////
 
@@ -43,7 +43,7 @@
 	# CONTACT US PAGE:
 		* Map: Serve over HTTPS.
 		* Contact Form: Add server code.
-		
+	# Add server code for testimomnial and patrtners to be dynamics.	
 
 3- CONTENT
 
