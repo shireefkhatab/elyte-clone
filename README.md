@@ -3,9 +3,9 @@
 3- CONTENTS.
 4- PERFORMANCE.
 
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 1- LAYOUT & VALIDATION
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 	# HTML: 
 		*Validation: Missing compatibility with HTML5.
 	# HEAD: 
@@ -29,9 +29,9 @@
 		* Map: Add style.
 		* Contact Form: Add style.
 		
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 2- FUNCTIONALITY
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 	# NAVIGATION & FOOTER:
 		* Contacts : Tel, Email, Social media links And other links
 		* Company + submenu: Replace it with just About us link.
@@ -41,18 +41,18 @@
 		* Map: Serve over HTTPS.
 		* Contact Form: Add server code.
 		
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
-3- CONTENTS
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
+3- CONTENT
+
 	# ALL PAGES: 
 		* Update Our Technology Partner; 
 		* Update Client Testimonials;
 	# HOME PAGE:
 		* Content: Needs more content (Summury of every page of the site).
 
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 4- PERFORMANCE
-/*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//*//
+
 	
 	Navigation: 
 		* Implement Angular SPA using ui-router for Fast and smooth routing between pages.
